@@ -21,7 +21,7 @@ public class RadixSort {
 	}
 	
 	/**
-	 * 使用基数排序对整数数组进行排序，按从小到大的书讯进行排序
+	 * 使用基数排序对整数数组进行排序，按从小到大的顺序进行排序
 	 * @param num 需要进行排序的数组
 	 * @param radix 表示基数
 	 * @param distance 排序元素的位置
