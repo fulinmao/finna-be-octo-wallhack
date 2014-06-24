@@ -1,4 +1,4 @@
-package com.sort;
+package com.IntegerSort;
 
 /**
  * Created by hadoop on 14-6-19.

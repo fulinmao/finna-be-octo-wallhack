@@ -1,4 +1,4 @@
-package com.sort;
+package com.IntegerSort;
 
 import java.util.Queue;
 
